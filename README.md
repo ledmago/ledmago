@@ -113,7 +113,7 @@
 <br/>
 
 ## 📊 Github Stats
-
+<a href="https://github.com/ledmago/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://camo.githubusercontent.com/8bc212624e7274509e888c040d0a0efa09101f616feecb5591a4280fdc1cfc14/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d376f536b6161612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d616c676f6c6961" height="192px" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ledmago&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" style="max-width: 100%;"></a>
 
 
 <br/>
