@@ -11,8 +11,7 @@
 
 ## :sassy_man:  About me
 - :school: Fullstack Developer
-- :trophy: Msc. Computer Engineering
-- :computer: I am a competitive programmer mainly at `Codeforces`
+- :trophy: Msc. Computer Engineering[
 - :nerd_face: Always `learning new things`
 
 <br>
