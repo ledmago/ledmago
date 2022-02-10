@@ -113,16 +113,6 @@
 <br/>
 
 ## 📊 Github Stats
-<a href="https://github.com/ledmago/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://camo.githubusercontent.com/8bc212624e7274509e888c040d0a0efa09101f616feecb5591a4280fdc1cfc14/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d376f536b6161612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d616c676f6c6961" height="192px" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ledmago&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" style="max-width: 100%;"></a>
 
 
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ledmago&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
------
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
-
-Last Edited on: 10/02/2022
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ledmago&amp;langs_count=10&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" style="max-width: 100%;"></a>
