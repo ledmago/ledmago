@@ -11,8 +11,10 @@
 
 ## :sassy_man:  About me
 - :school: Fullstack Developer
-- :trophy: Msc. Computer Engineering[
+- 👜: Currently Nest,Node Backend Engineer 
+- :trophy: Msc. Computer Engineering
 - :nerd_face: Always `learning new things`
+- :email: firatdogan0@gmail.com
 
 <br>
 
